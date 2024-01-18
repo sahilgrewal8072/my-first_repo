@@ -5,4 +5,4 @@ Let's Learn Git and GitHub with Dr. Hoot Charles
 Sahil Grewal
 
 # Address
-515 E 7th St Apt : 720-1
+515 E 7th St Apt : 720-1 (Parkway Village)
